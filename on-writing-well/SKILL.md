@@ -6,6 +6,10 @@ description: >
   Trigger on phrases like "edit my writing," "make this better," "review this piece," "apply On Writing Well principles," "tighten this up," "check my writing," "improve this draft," or when a user pastes text and asks for feedback or edits.
   Also trigger when the user shares a file and wants writing feedback, editing, or improvements.
   Do NOT use for purely technical code, spreadsheets, or non-prose content.
+license: MPL-2.0
+metadata:
+  author: The Ministry of Software Design
+  version: 0.5
 ---
 
 # On Writing Well — Writing Editor
